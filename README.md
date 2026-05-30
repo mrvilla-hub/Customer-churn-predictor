@@ -2,7 +2,7 @@
 
 An end-to-end machine learning workflow built in Google Colab that identifies high-risk subscribers using operational and billing data. This project translates raw customer data into actionable business intelligence to drive retention strategies.
 
-[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1nkVSoFhm2gex7_sfFJcbVwpPdj2iZBjc?usp=sharing).
+[![Open In Colab]](https://colab.research.google.com/drive/1nkVSoFhm2gex7_sfFJcbVwpPdj2iZBjc?usp=sharing).
 
 ## 🎯 Project Overview
 Customer churn directly impacts predictable revenue. This project builds a predictive pipeline to catch churning customers before they cancel their subscriptions. 
