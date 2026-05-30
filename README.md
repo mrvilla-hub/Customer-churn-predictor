@@ -1,2 +1,2 @@
-# Customer-churn-predictor
-Predicts which customers will leave a telecom company. 
+[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1nkVSoFhm2gex7_sfFJcbVwpPdj2iZBjc?usp=sharing)
+
